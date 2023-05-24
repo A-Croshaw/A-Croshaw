@@ -47,7 +47,7 @@ Repository [_Cosbranok_](https://github.com/A-Croshaw/cosbranok). For Live Deplo
 <br>
 
 <p align="center">
-    <img src="images/Jest.png" alt="JavaScript 5">
+    <img src="images/jest.png" alt="JavaScript 5">
 </p>
 
 <br>
