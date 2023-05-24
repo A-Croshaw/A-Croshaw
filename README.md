@@ -16,9 +16,15 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 Repository [_Riddles_](https://github.com/A-Croshaw/Riddles).
 For Live Deployment [_Click Here_](https://ac-riddles.herokuapp.com/)
 
+![Game](images/game-gif.jpg)
+
 Repository [_Hi-Low-Game_](https://github.com/A-Croshaw/hi-low-game). For Live Deployment [_Click Here_](https://a-croshaw.github.io/hi-low-game/).
 
+![Game](images/game.png)
+
 Repository [_Cosbranok_](https://github.com/A-Croshaw/cosbranok). For Live Deployment [_Click Here_](https://a-croshaw.github.io/cosbranok/)
+
+![Mock-up-Image](images/mockup1.png)
 
 <p align="center">
   <img src="images/line.png">
@@ -47,13 +53,7 @@ Repository [_Cosbranok_](https://github.com/A-Croshaw/cosbranok). For Live Deplo
 <br>
 
 <p align="center">
-    <img src="images/Jest.png" alt="JavaScript 5">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="images/line.png">
+    <img src="images/jest.png" alt="JavaScript 5">
 </p>
 
 <br>
