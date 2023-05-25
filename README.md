@@ -36,6 +36,9 @@ Repository [_Cosbranok_](https://github.com/A-Croshaw/cosbranok). For Live Deplo
 
 <br>
 
+### Languages
+
+
 <p align="center">
   <img src="images/html5_small.png" alt="HTML 5">
   <img src="images/css3_small.png" alt="CSS 3">
@@ -45,12 +48,27 @@ Repository [_Cosbranok_](https://github.com/A-Croshaw/cosbranok). For Live Deplo
 
 <br>
 
+### Frameworks
+
+
 <p align="center">
-  <img src="images/bootstrap.png" alt="Python">
-  <img src="images/flask.png" alt="Python">
+  <img src="images/bootstrap.png" alt="Bootstrap">
+  <img src="images/Materialize.png" alt="Materialize">
+  <img src="images/flask.png" alt="Flask">
 </p>
 
 <br>
+
+### Database
+
+<p align="center">
+  <img src="images/PostgreSql.png" alt="PostgreSql">
+</p>
+
+<br>
+
+### Testing
+
 
 <p align="center">
     <img src="images/jest.png" alt="JavaScript 5">
