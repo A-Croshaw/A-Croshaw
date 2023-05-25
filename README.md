@@ -3,28 +3,45 @@
   <img src="images/line.png">
 </p>
 
-# ⚡  About me  ⚡
+<h1 align="center">
+  ⚡  About me  ⚡
+<h1>
 
 <br>
 
-I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/).
+<p align="center">
+  I’m currently studying Full Stack Software Development at Code Institute
+</p>
 
 <br>
 
-# My Own Built projects
+<p align="center">
+  <img src="images/facebook.png" alt="Facebook">
+  <img src="images/instagram.png" alt="Instagram">
+  <img src="images/linkedin.png" alt="linkedin">
+</p>
 
-Repository [_Riddles_](https://github.com/A-Croshaw/Riddles).
-For Live Deployment [_Click Here_](https://ac-riddles.herokuapp.com/)
+<br>
 
-![Game](images/game-gif.jpg)
+![codeins](images/code-logo.png)
+[_Code Institute_](https://codeinstitute.net/ie/).
 
-Repository [_Hi-Low-Game_](https://github.com/A-Croshaw/hi-low-game). For Live Deployment [_Click Here_](https://a-croshaw.github.io/hi-low-game/).
+<br>
 
-![Game](images/Game.png)
+<h1 align="center">
+  My Own Built projects
+</h1>
 
-Repository [_Cosbranok_](https://github.com/A-Croshaw/cosbranok). For Live Deployment [_Click Here_](https://a-croshaw.github.io/cosbranok/)
 
-![Mock-up-Image](images/mockup1.png)
+<br>
+
+
+| Repository     | Picture      |   Live Deployment  | Descriptions |
+| :--------:     |    :----------:  |  :--------: | :-------------: |
+|[_Riddles_](https://github.com/A-Croshaw/Riddles)|![Game](images/game-gif.jpg)|[_Click Here_](https://ac-riddles.herokuapp.com/)|Python app linking to google sheets|
+|[_Hi-Low-Game_](https://github.com/A-Croshaw/hi-low-game)|![Game](images/Game.png)|[_Click Here_](https://a-croshaw.github.io/hi-low-game/)| JavaScript, HTML and CSS. Based Game |
+|[_Cosbranok_](https://github.com/A-Croshaw/cosbranok)|![Mock-up-Image](images/mockup1.png)|[_Click Here_](https://a-croshaw.github.io/cosbranok/)|HTML and CSS based website|
+
 
 <p align="center">
   <img src="images/line.png">
@@ -32,51 +49,32 @@ Repository [_Cosbranok_](https://github.com/A-Croshaw/cosbranok). For Live Deplo
 
 <br>
 
-# Languages and technologies:
+<h1 align="center">
+  Languages and technologies:
+</h1>
 
 <br>
 
-### Languages
-
-
 <p align="center">
-  <img src="images/html5_small.png" alt="HTML 5">
-  <img src="images/css3_small.png" alt="CSS 3">
-  <img src="images/JavaScript5_small.png" alt="JavaScript 5">
-  <img src="images/Python_small.png" alt="Python">
-</p>
-
-<br>
-
-### Frameworks
-
-
-<p align="center">
+  <img src="images/html.png" alt="HTML 5">
+  <img src="images/css.png" alt="CSS 3">
+  <img src="images/js.png" alt="JavaScript 5">
+  <img src="images/python.png" alt="Python">
   <img src="images/bootstrap.png" alt="Bootstrap">
   <img src="images/Materialize.png" alt="Materialize">
   <img src="images/flask.png" alt="Flask">
+  <img src="images/django.png" alt="django">
+  <img src="images/node.png" alt="node">
+  <img src="images/api.png" alt="api">
+  <img src="images/postgresql.png" alt="PostgreSql">
+  <img src="images/jest.png" alt="jest">
 </p>
 
 <br>
 
-### Database
-
-<p align="center">
-  <img src="images/PostgreSql.png" alt="PostgreSql">
-</p>
-
-<br>
-
-### Testing
-
-
-<p align="center">
-    <img src="images/jest.png" alt="JavaScript 5">
-</p>
-
-<br>
-
-# GitHub Stats:
+<h1 align="center">
+  GitHub Stats:
+</h1>
 
 <br>
 
