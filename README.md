@@ -20,7 +20,7 @@ For Live Deployment [_Click Here_](https://ac-riddles.herokuapp.com/)
 
 Repository [_Hi-Low-Game_](https://github.com/A-Croshaw/hi-low-game). For Live Deployment [_Click Here_](https://a-croshaw.github.io/hi-low-game/).
 
-![Game](images/game.png)
+![Game](images/Game.png)
 
 Repository [_Cosbranok_](https://github.com/A-Croshaw/cosbranok). For Live Deployment [_Click Here_](https://a-croshaw.github.io/cosbranok/)
 
