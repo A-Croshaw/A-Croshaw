@@ -16,15 +16,16 @@
 <br>
 
 <p align="center">
-  <img src="images/facebook.png" alt="Facebook">
-  <img src="images/instagram.png" alt="Instagram">
-  <img src="images/linkedin.png" alt="linkedin">
+  <a herf="https://www.facebook.com/andrew.croshaw.90"><img src="images/facebook.png" alt="Facebook"></a>
+  <a herf="https://www.instagram.com/andrew.croshaw/"><img src="images/instagram.png" alt="Instagram"></a>
+  <a herf="https://www.linkedin.com/in/andrew-croshaw-b936a8259/"><img src="images/linkedin.png" alt="linkedin"></a?>
 </p>
 
 <br>
 
-![codeins](images/code-logo.png)
-[_Code Institute_](https://codeinstitute.net/ie/).
+<p align="center">
+  <a herf="https://codeinstitute.net/ie/"><img src="images/code-logo.png" alt="Facebook"></a>
+</p>
 
 <br>
 
@@ -67,7 +68,7 @@
   <img src="images/django.png" alt="django">
   <img src="images/node.png" alt="node">
   <img src="images/api.png" alt="api">
-  <img src="images/postgresql.png" alt="PostgreSql">
+  <img src="images/PostgreSql.png" alt="PostgreSql">
   <img src="images/jest.png" alt="jest">
 </p>
 
