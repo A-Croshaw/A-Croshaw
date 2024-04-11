@@ -39,6 +39,8 @@
 
 | Repository     | Picture      |   Live Deployment  | Descriptions |
 | :--------:     |    :----------:  |  :--------: | :-------------: |
+|[_Rubys_](https://github.com/A-Croshaw/Rubys-23)|![Mock-up-Image](images/mockup4.png)|[_Click Here_](https://rubys-97a7171770c1.herokuapp.com/)|HTML, CSS, Js and Python(Django Framework) Based website|
+|[_Menu-Manager_](https://github.com/A-Croshaw/Menu_Manager)|![Mock-up-Image](images/mockup3.png)|[_Click Here_](https://menu-manager-32aec1a9f4d5.herokuapp.com/)|HTML, CSS, Js and Python(Django Framework) Based website|
 |[_Andrew-Patricia_](https://github.com/A-Croshaw/Andrew-Patricia)|![Mock-up-Image](images/mockup2.png)|[_Click Here_](https://a-croshaw.github.io/Andrew-Patricia/)|HTML and CSS Based website|
 |[_Riddles_](https://github.com/A-Croshaw/Riddles)|![Game](images/game-gif.jpg)|[_Click Here_](https://ac-riddles.herokuapp.com/)|Python app linking to google sheets|
 |[_Hi-Low-Game_](https://github.com/A-Croshaw/hi-low-game)|![Game](images/Game.png)|[_Click Here_](https://a-croshaw.github.io/hi-low-game/)| JavaScript, HTML and CSS. Based Game |
