@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-I'm a newly skilled Full Stack Developer with technical experience in HTML, CSS, JavaScript, Python, Bootstrap and Django. 
+I'm qualified as a Full Stack Developer with technical experience in HTML, CSS, JavaScript, Python, Bootstrap and Django. 
 </p>
 
 <h2 align="center">
