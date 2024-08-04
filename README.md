@@ -10,22 +10,44 @@
 <br>
 
 <p align="center">
-  I’m currently studying Full Stack Software Development at Code Institute
+I'm a newly skilled Full Stack Developer with technical experience in HTML, CSS, JavaScript, Python, Bootstrap and Django. 
+</p>
+
+<h2 align="center">
+Education
+</h2>
+
+<p align="center">
+Diploma in Full Stack Software Development (Credit Rated by The University of the West of Scotland) - with Code Institute.
+</p>
+
+<p align="center">
+BTEC National Diploma: IT Practitioners - with East Devon College.
 </p>
 
 <br>
 
-<p align="center">
-  <a herf="https://www.facebook.com/andrew.croshaw.90"><img src="images/facebook.png" alt="Facebook"></a>
-  <a herf="https://www.instagram.com/andrew.croshaw/"><img src="images/instagram.png" alt="Instagram"></a>
-  <a herf="https://www.linkedin.com/in/andrew-croshaw-b936a8259/"><img src="images/linkedin.png" alt="linkedin"></a?>
-</p>
+<div align="center">
+
+[_My Resume_](https://a-croshaw.github.io/Andrew-CV/)
+
+</div>
 
 <br>
 
-<p align="center">
-  <a herf="https://codeinstitute.net/ie/"><img src="images/code-logo.png" alt="Facebook"></a>
-</p>
+<div align="center">
+
+[![Facebook](images/facebook.png)](https://www.facebook.com/andrew.croshaw.90) [![Instagram](images/instagram.png)](https://www.instagram.com/andrew.croshaw/) [![linkedin](images/linkedin.png)](https://www.linkedin.com/in/andrew-croshaw-b936a8259/)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Code Institute](images/code-logo.png)](https://codeinstitute.net/ie/)
+
+</div>
 
 <br>
 
